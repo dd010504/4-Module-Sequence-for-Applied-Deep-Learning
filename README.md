@@ -8,10 +8,10 @@ This repository contains a four-part deep learning assignment sequence for under
 
 | Module | Focus | Dataset |
 |--------|-------|---------|
-| 1 | Linear Regression, Kernel Methods, Regularization | Facebook Metrics |
-| 2 | Preprocessing, Dimensionality Reduction, Logistic Regression, Neural Networks | Fashion-MNIST |
-| 3 | CNN Design & Training, Transfer Learning | CIFAR-10 |
-| 4 | RNN Classification, LSTM/GRU Analysis | Reuters Newswire |
+| 1 | Linear Regression, Kernel Methods, Regularization | (InProgress) |
+| 2 | Preprocessing, Dimensionality Reduction, Logistic Regression, Neural Networks | (InProgress) |
+| 3 | CNN Design & Training, Transfer Learning |(InProgress) |
+| 4 | RNN Classification, LSTM/GRU Analysis | (InProgress) |
 
 ## Highlights
 - **Modular & adaptable** — instructors can cherry-pick modules based on course goals.
